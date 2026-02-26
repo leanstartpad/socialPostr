@@ -1,1 +1,2 @@
+# Force a specific language
 *.py linguist-language=Python
