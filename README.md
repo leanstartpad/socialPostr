@@ -1,4 +1,4 @@
-![socialPostr2](socialPostr2sch.jpg)
+![socialPostr2](socialpostr2CVR.jpg)
 # socialPostr
 Schedule Social Media Posts from 1 to 168 per week, all at once.
 
